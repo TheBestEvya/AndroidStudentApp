@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">studentsApp</string>
+    <string name="name_hint">Name</string>
+    <string name="id_hint">ID</string>
+    <string name="phone_hint">Phone</string>
+    <string name="address_hint">Address</string>
+    <string name="add_student">Add Student</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_id">ID (not editable)</string>
+    <string name="hint_phone">Enter Phone</string>
+    <string name="hint_address">Enter Address</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="delete_student">Delete Student</string>
+    <string name="edit">edit Student</string>
+
 </resources>
